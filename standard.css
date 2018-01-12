@@ -2,7 +2,8 @@
 
 
 body {
-	background-color: #0C690C;
+	/*background-color: #0C690C;*/
+	background:linear-gradient(darkgreen, #59B059);
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";	
 }
 
@@ -10,7 +11,7 @@ body {
 div {
 	margin: auto;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	background-color: #107610;
+	background-color: #59B059;
 	
 
 }
