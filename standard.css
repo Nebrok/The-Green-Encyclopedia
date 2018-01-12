@@ -2,7 +2,7 @@
 
 
 body {
-	background: linear-gradient(180deg, darkgreen, green); 
+	background: linear-gradient("to bottom", darkgreen, green); 
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	
 }
