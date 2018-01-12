@@ -2,7 +2,7 @@
 
 
 body {
-	background: linear-gradient(-45, darkgreen, green);
+	background: linear-gradient(180deg, darkgreen, green); 
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	
 }
@@ -11,7 +11,7 @@ body {
 div {
 	margin: auto;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	background-color: rgba(0,255,51,0.20);
+	
 	
 
 }
